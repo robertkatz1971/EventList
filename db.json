@@ -13,9 +13,9 @@
     {
       "id": 456,
       "category": "food",
-      "title": "City Gardening",
-      "description": "Join us as we tend to the city edible plants.",
-      "location": "Flora City",
+      "title": "Mountain Gardening",
+      "description": "Join us as we tend to the edible plants found in the mountains.",
+      "location": "East Hanover",
       "date": "March 14, 2022",
       "time": "10:00",
       "organizer": "Fern Pollin"
@@ -23,12 +23,12 @@
     {
       "id": 789,
       "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
+      "title": "River Cleanup",
+      "description": "Help pick up trash along the river.",
       "location": "Playa Del Carmen",
       "date": "July 22, 2022",
       "time": "11:00",
-      "organizer": "Carey Wales"
+      "organizer": "Robert Katz"
     }
   ]
 }
