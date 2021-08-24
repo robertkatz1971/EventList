@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Robert Katz"
+    },
+     {
+      "id": 800,
+      "category": "sustainability",
+      "title": "Ocean Cleanup",
+      "description": "Help pick up trash along the ocean.",
+      "location": "Livingston",
+      "date": "July 30, 2022",
+      "time": "11:00",
+      "organizer": "Andrew Katz"
     }
   ]
 }
